@@ -4,8 +4,8 @@
  */
 package Interface;
 
-import Model_pizzariaclaudiaerica.Cliente;
-import Model_pizzariaclaudiaerica.TabelaCliente;
+import Pizzaria.Cliente;
+import Pizzaria.TabelaCliente;
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
